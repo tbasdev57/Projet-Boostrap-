@@ -1,0 +1,74 @@
+.btn-custom {
+	background-color: #FF4500;
+	color: white;
+}
+
+.whitecontainer {
+  background-color: white;
+}
+
+.bluecontainer {
+  background-color: #318ce7;
+}
+
+
+body{
+  background-color: black;
+}
+.align{
+  text-align: center;
+}
+
+.whiteshadow{
+  text-shadow: 1px 1px 0px white;
+}
+
+.carrenoir{
+	height: 50px;
+
+}
+
+#personne{
+	height: 300px;
+	padding-top: 100px;
+}
+
+.form-control {
+	border: 2px solid black;
+}
+.background{
+	background-size: cover;
+}
+
+#animation: img{
+  width: 100%;
+  background-size: cover;
+
+}
+
+.jumbotron {
+	background-image: url("../img/prod1.png");
+}
+
+.my-7 {
+
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+ }
+
+ .my-8 {
+
+  margin-top: 180px;
+  margin-bottom: 100px;
+
+ }
+
+ li:hover{
+ 	border-bottom: solid 2px #FF4500;
+ }
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
